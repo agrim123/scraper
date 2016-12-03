@@ -1,0 +1,24 @@
+{
+  "name": "scrapper",
+  "version": "1.0.0",
+  "description": "scrapper for movies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agrim123/scrapper.git"
+  },
+  "author": "agrim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agrim123/scrapper/issues"
+  },
+  "homepage": "https://github.com/agrim123/scrapper#readme",
+  "dependencies" : {
+    "express"    : "latest",
+    "request"    : "latest",
+    "cheerio"    : "latest"
+  }
+}
